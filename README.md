@@ -1,4 +1,4 @@
-# Qentrah UI Frontend
+# WhatsApp Services UI
 
 Copied from the existing extended dashboard UI and trimmed into a frontend-only Next.js app.
 
