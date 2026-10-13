@@ -30,3 +30,7 @@ Open `http://localhost:3000` or the port printed by Next.js.
 - `src/contexts/` - Frontend state providers.
 - `src/mock/` - Local data/actions used by the copied UI.
 - `src/hooks/` and `src/lib/` - UI helpers preserved from the copied app.
+
+## Project links
+
+[Source](https://github.com/Up-to-code/whatsappservicesui) · [Issues](https://github.com/Up-to-code/whatsappservicesui/issues) · [Public project directory](https://github.com/qentrah/.github/blob/main/profile/PROJECTS.md)
